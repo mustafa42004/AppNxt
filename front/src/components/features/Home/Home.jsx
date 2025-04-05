@@ -27,7 +27,7 @@ const Home = () => {
 
     <Content heading={'ABOUT US'} content={'APPNXT Pvt. Ltd. offers innovative IT solutions in web and app development, digital marketing, and custom software services, helping businesses thrive.'} />
 
-    <AnimateImage image={'/assets/img/lg-video.svg'} />
+    <AnimateImage image={'/assets/img/lg-video.webp'} />
 
     {/* <Projects type={'center'} content={projectHeading} /> */}
     <OurServices />
